@@ -3,7 +3,7 @@
 Use the existing checkout; cloud tasks are isolated. Work on a dedicated branch. Inspect code and git status before major tasks, preserve existing user changes.
 
 ## Approval
-Preparation and audit are authorized. Implementation of VOZMI PROMPT 2.0 requires the user's approval of the plan in PREPARATION.md. Never publish, push to production, or change the deployed site without explicit authorization. Keep the old design and original media recoverable.
+The user approved full implementation via MASTER IMPLEMENTATION SPECIFICATION. Publication still requires final explicit approval. Never publish, push to production, or change the deployed site without explicit authorization. Keep the old design and original media recoverable.
 
 ## VOZMI DESIGN SYSTEM
 Premium Creative Agency / Cinematic / Modern Minimalism. Black background, graphite surfaces, white text, neon lime accent. Existing reference tokens: background #090b0b, panel #141817, ink #f9f7ed, muted #b9c0bb, accent #d9ff43, border #353d39. Preserve brand identity and approved logos. The requested original VP monogram must come from the owner or an approved existing asset; do not invent a replacement. Use the author's work, never random stock substitutes.
