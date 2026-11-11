@@ -1,0 +1,10 @@
+# GitHub Pages branch build: exclude development files from the public site.
+exclude:
+  - AGENTS.md
+  - PREPARATION.md
+  - README.md
+  - docs
+  - tests
+  - scripts
+  - preview
+  - vozmiprompt-demo.html
