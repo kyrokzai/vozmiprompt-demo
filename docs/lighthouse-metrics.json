@@ -1,0 +1,26 @@
+[
+  {
+    "performance": 99.0,
+    "accessibility": 100,
+    "seo": 100,
+    "LCP_ms": 1954.0877,
+    "TBT_ms": 78,
+    "CLS": 0
+  },
+  {
+    "performance": 97.0,
+    "accessibility": 100,
+    "seo": 100,
+    "LCP_ms": 1961.0659,
+    "TBT_ms": 158.733525,
+    "CLS": 0
+  },
+  {
+    "performance": 98.0,
+    "accessibility": 100,
+    "seo": 100,
+    "LCP_ms": 1951.6365999999998,
+    "TBT_ms": 119.59084999999993,
+    "CLS": 0
+  }
+]

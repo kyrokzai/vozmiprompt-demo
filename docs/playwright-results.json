@@ -1,0 +1,56 @@
+[
+  {
+    "width": 320,
+    "passed": true,
+    "errors": [],
+    "missing": []
+  },
+  {
+    "width": 375,
+    "passed": true,
+    "errors": [],
+    "missing": []
+  },
+  {
+    "width": 390,
+    "passed": true,
+    "errors": [],
+    "missing": []
+  },
+  {
+    "width": 430,
+    "passed": true,
+    "errors": [],
+    "missing": []
+  },
+  {
+    "width": 768,
+    "passed": true,
+    "errors": [],
+    "missing": []
+  },
+  {
+    "width": 1024,
+    "passed": true,
+    "errors": [],
+    "missing": []
+  },
+  {
+    "width": 1280,
+    "passed": true,
+    "errors": [],
+    "missing": []
+  },
+  {
+    "width": 1440,
+    "passed": true,
+    "errors": [],
+    "missing": []
+  },
+  {
+    "width": 1920,
+    "passed": true,
+    "errors": [],
+    "missing": []
+  }
+]
